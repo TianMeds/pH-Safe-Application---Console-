@@ -4,6 +4,7 @@ from rich.theme import Theme
 from rich.progress import track
 import time
 
+ # Path: pH Safe App.py
 custom_theme = Theme({"success": "green", "error": "bold red"})
 console = Console(theme=custom_theme)
 class Color:
@@ -37,7 +38,7 @@ PURPLE = ("means the water is at 12.5 pH level" "\n" "Did you know? Ammonia solu
 VIOLET = ("means the water is  at 13.0 - 14.0 pH level" "\n" "Did you know? Liquid drain cleaner is at 14 pH level. So if the tested liquid is a Liquid drain cleaner, then it is not safe to drink")
 
 
-START_DIALOG = ("Hi! Welcome to pH Safe App!")
+START_DIALOG = ("Hi! Welcome to pH Safe App! We Make sure your water is clean")
 END_DIALOG = ("""\nThank you for using pH Safe App!
 To make sure the water you are about to drink is safe, buy test approved drinking water :>\n 
 This app is just a demo, full specifications are upto the future Mc Joseph C. Agbanlog, and Christian Medallada 
