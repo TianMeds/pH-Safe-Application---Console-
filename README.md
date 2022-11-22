@@ -30,6 +30,6 @@ pH Safe App is an app that scans for a pH Test Strip and calculates the pH level
 
 Thank you for using the pH Safe App!
 Buy test-approved drinking water to ensure the water you're about to drink is safe:>n
-This program is only a demonstration; full specs will be released in the future. Mc Joseph C. Agbanlog and Christian Medallada
+This program is only a demonstration; full specs and UI will be released in the future. Mc Joseph C. Agbanlog and Christian Medallada
 
-(Beginner pH Safe App v3 Developers)
+(Junior pH Safe Mobile App Developers)
